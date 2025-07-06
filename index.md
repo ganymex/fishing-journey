@@ -1,3 +1,7 @@
+---
+title-heading: false
+---
+
 This page includes my personal experience of all the fishing lakes, reserviors, rivers, and shores I have been to since I started learning fishing. Now only in California.
 
 # Venice Fishing Pier
