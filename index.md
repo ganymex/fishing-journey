@@ -1,5 +1,3 @@
-
-
 # Fishing Experience
 
 This page includes my personal experience of what I've learned for fishing along the way. It includes some general rules to successfully catch a fish, as well as experience of some fishing lakes, reserviors, rivers, and shores I have been to since I started learning fishing. Now only in California.
