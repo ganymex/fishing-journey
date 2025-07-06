@@ -1,11 +1,6 @@
 name: My Fishing Journey
 title: null
 
-remote_theme: chesterhow/tale
-
-permalink:    /:year-:month-:day/:title
-paginate:     5
-
+remote_theme: MichaelCurrin/simplest-jekyll
 plugins:
-  - jekyll-paginate
   - jekyll-remote-theme
