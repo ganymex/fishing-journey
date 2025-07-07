@@ -1,7 +1,3 @@
-
----
-layout: default
----
 # My Fishing Journey and Lessons Learned
 
 This page shares my personal journey into fishing, along with the lessons I’ve picked up from online resources and invaluable advice from experienced friends. It covers some general principles for successfully catching fish, as well as my observations and experiences at various lakes, reservoirs, rivers, and shorelines I’ve visited. So far, all the locations are in California.
