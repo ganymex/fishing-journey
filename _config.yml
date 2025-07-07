@@ -1,6 +1,6 @@
 name: My Fishing Journey
 title: null
 
-remote_theme: pages-themes/minimal
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
